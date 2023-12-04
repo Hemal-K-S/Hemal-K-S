@@ -4,7 +4,7 @@
 - 😄 My pronouns are: He/His/Him
 - 🔭 **Data Engineer with a Passion for Building Career in Data Science and Engineering**  
 - 💬 **Actively Seeking Data Engineer Opportunities**  
-- 🧑🏻‍🏫 I'am Currently Learning:
+- 🧑🏻‍🏫 I am Currently Learning:
    - Exploring Modern Data Stack (dbt, Airbyte, Databricks)
    - Amazon Cloud (Worked with Azure & GCP)
    - Architecting Better Data Systems
