@@ -13,7 +13,7 @@
 ## Projects...
 
 - 🤘 Here are my Open Source contributions so far: 
-  - [YouTube Analysis End-To-End Data Engineering Project using Python and AWS](https://github.com/Hemal-K-S/Dataengineering-Youtube-analysis-Datapipeline-Project)
+  - [YouTube Analysis End-To-End Data Engineering Project using Python and AWS](https://github.com/Hemal-K-S/Data-Engineering-Youtube-analysis-Datapipeline-Project)
   - [Spotify Data Pipeline Project](https://github.com/Hemal-K-S/Python-for-Data-Engineering/tree/main/6.%20End-To-End%20Data%20Pipeline%20Project)
   - [Stock Market Real-Time Data Processing Using Kafka](https://github.com/Hemal-K-S/Stock-Market-Kafka-Data-Engineering-Project)
   - [Exploratory Data Analysis Projects](https://github.com/Hemal-K-S/Machine-Learning-Projects/tree/master)
