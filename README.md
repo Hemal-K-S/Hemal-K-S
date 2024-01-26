@@ -20,6 +20,7 @@
 
 ## My Certifications and Courses
 
+  - [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/hemalks-666/credentials/12e4e2c67757ddbf)
   - [Tableau Desktop Specialist](https://www.credly.com/badges/7141dcff-6af9-42b5-8209-5efe9e421e47/public_url)
   - [Python for Data Engineering](https://learn.datawithdarshil.com/share-certificate?serialno=UIYRXOBM)
   - [SQL for Data Engineering](https://learn.datawithdarshil.com/share-certificate?serialno=DJKF8XZJ)
