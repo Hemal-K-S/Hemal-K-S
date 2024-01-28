@@ -21,6 +21,7 @@
 ## My Certifications and Courses
 
   - [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/hemalks-666/credentials/12e4e2c67757ddbf)
+  - [Google Cloud Certified: Professional Data Engineer](https://google.accredible.com/937ae884-4df1-42d0-ab88-cc69cef99517)
   - [Tableau Desktop Specialist](https://www.credly.com/badges/7141dcff-6af9-42b5-8209-5efe9e421e47/public_url)
   - [Python for Data Engineering](https://learn.datawithdarshil.com/share-certificate?serialno=UIYRXOBM)
   - [SQL for Data Engineering](https://learn.datawithdarshil.com/share-certificate?serialno=DJKF8XZJ)
